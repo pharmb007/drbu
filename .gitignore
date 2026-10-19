@@ -1,0 +1,10 @@
+.local-reference/
+.local-drafts/
+.local-qa/
+.local-deliverables/
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+__pycache__/

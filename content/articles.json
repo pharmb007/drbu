@@ -1,0 +1,40 @@
+{
+  "articles": [
+    {
+      "id": "ritual-trust-system",
+      "no": "003",
+      "brand": "Ritual",
+      "category": "品牌策略",
+      "title": "Ritual：把「我憑什麼相信你？」做成可點擊的保健品牌信任系統",
+      "summary": "當成分透明、來源追溯與第三方檢測，不只是說法，而是整個品牌體驗。",
+      "signal": "TRUST SYSTEM",
+      "status": "summary-only",
+      "date": null,
+      "href": "articles/ritual-trust-system.html"
+    },
+    {
+      "id": "gruns-daily-habit",
+      "no": "002",
+      "brand": "Grüns",
+      "category": "商業模式",
+      "title": "Grüns：把綜合營養品，做成每天一包的 DTC 軟糖習慣",
+      "summary": "真正被設計的不是一顆軟糖，而是低摩擦、高複購的日常行為。",
+      "signal": "DAILY HABIT",
+      "status": "summary-only",
+      "date": null,
+      "href": "articles/gruns-daily-habit.html"
+    },
+    {
+      "id": "ag1-subscription",
+      "no": "001",
+      "brand": "AG1",
+      "category": "成長策略",
+      "title": "AG1：一匙綠粉背後的 Podcast 信任與訂閱模式",
+      "summary": "單一 SKU 如何透過媒體信任、品類教育與訂閱制，放大顧客終身價值。",
+      "signal": "SUBSCRIPTION",
+      "status": "summary-only",
+      "date": null,
+      "href": "articles/ag1-subscription.html"
+    }
+  ]
+}
